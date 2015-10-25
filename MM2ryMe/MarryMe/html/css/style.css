@@ -19,22 +19,25 @@
 }
 
 #leftcontent {
-	width:180px;
-	min-height:500px;
-	float:left;
+    width: 180px;
+    min-height: 500px;
+    float: left;
 }
+
 #mycontent {
-	width:600px;
-	float:left;
+    width: 600px;
+    float: left;
 }
+
 #rightcontent {
 }
+
 content {
-	z-index:-2;
-	display:inline-block;
-	float:left;
-	position:relative;
-	margin-top:-35px;
+    z-index: -2;
+    display: inline-block;
+    float: left;
+    position: relative;
+    margin-top: -35px;
     text-align: justify;
 }
 
@@ -59,12 +62,12 @@ body {
 }
 
 header {
-	width:960px;
-	display:block;
+    width: 960px;
+    display: block;
 }
 
 footer {
-	width: 960px;
-	float:right;
+    width: 960px;
+    float: right;
     background-color: #920bc4;
-	}
+}

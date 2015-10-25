@@ -2,28 +2,32 @@
 @import "menu.css";
 @import "header.css";
 @import "content.css";
+
 @font-face {
-	font-family: EkaterinaVelikaya2;
-	src: url(../fonts/EkaterinaVelikaya2.ttf);
+    font-family: EkaterinaVelikaya2;
+    src: url(../fonts/EkaterinaVelikaya2.ttf);
 }
+
 * {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }
+
 body {
-	max-width: 960px;
-	text-align: center;
-	margin: auto;
+    max-width: 960px;
+    text-align: center;
+    margin: auto;
 }
 
 header {
-	float: left;
+    float: left;
 }
 
 section {
-	float: right;
+    float: right;
 }
+
 content {
-	padding:10px;
-	margin: 20px;
+    padding: 10px;
+    margin: 20px;
 }
